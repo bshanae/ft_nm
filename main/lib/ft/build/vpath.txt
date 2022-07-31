@@ -1,0 +1,32 @@
+# STD
+./build/source_std_char
+./build/source_std_mem
+./build/source_std_num
+./build/source_std_string
+#	ERROR
+./build/source_error
+#	GNL
+./build/source_get_next_line
+#	LIST
+./build/source_list
+#	LIST2
+./build/source_list2
+#	QUEUE
+./build/source_queue
+#	VECTOR
+./build/source_vector
+#	BTREE
+./build/source_btree
+#	DL
+./build/source_dl
+#	FT PRINTF
+./build/source_ft_printf
+./build/source_ft_printf/ftp_buffer
+./build/source_ft_printf/ftp_control
+./build/source_ft_printf/ftp_format_in
+./build/source_ft_printf/ftp_format_data
+./build/source_ft_printf/ftp_format_out
+./build/source_ft_printf/ftp_format_out_whole
+./build/source_ft_printf/ftp_format_out_real
+./build/source_ft_printf/utils
+./build/source_ft_printf/long

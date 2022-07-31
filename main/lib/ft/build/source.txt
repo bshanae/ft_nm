@@ -1,0 +1,169 @@
+#	STD NUM
+./build/source_std_num/ft_max.c
+./build/source_std_num/ft_min.c
+./build/source_std_num/ft_abs.c
+#	STD CHAR
+./build/source_std_char/is_space.c
+./build/source_std_char/is_upper.c
+./build/source_std_char/is_lower.c
+./build/source_std_char/is_alpha.c
+./build/source_std_char/is_dec.c
+./build/source_std_char/to_upper.c
+./build/source_std_char/to_lower.c
+./build/source_std_char/is_hex.c
+./build/source_std_char/is_integer.c
+./build/source_std_char/is_float.c
+#	STD STR
+./build/source_std_string/ft_strncat.c
+./build/source_std_string/ft_strnstr.c
+./build/source_std_string/ft_strlen.c
+./build/source_std_string/ft_atof.c
+./build/source_std_string/ft_strclr.c
+./build/source_std_string/ft_strchr.c
+./build/source_std_string/ft_strjoin.c
+./build/source_std_string/ft_strstr.c
+./build/source_std_string/ft_strcat.c
+./build/source_std_string/ft_strdel.c
+./build/source_std_string/ft_strrchr.c
+./build/source_std_string/ft_strncmp.c
+./build/source_std_string/ft_strcpy.c
+./build/source_std_string/ft_strtrim.c
+./build/source_std_string/ft_strnew.c
+./build/source_std_string/ft_atoi_base.c
+./build/source_std_string/ft_strdup.c
+./build/source_std_string/ft_atoi.c
+./build/source_std_string/ft_itoa.c
+./build/source_std_string/ft_strsub.c
+./build/source_std_string/ft_strncpy.c
+./build/source_std_string/ft_strcmp.c
+./build/source_std_string/ft_str_prefix.c
+./build/source_std_string/ft_str_suffix.c
+./build/source_std_string/ft_str_tokenize.c
+#	STD MEM
+./build/source_std_mem/ft_memcmp.c
+./build/source_std_mem/swap_memory.c
+./build/source_std_mem/ft_bzero.c
+./build/source_std_mem/ft_memcpy.c
+./build/source_std_mem/ft_memalloc.c
+./build/source_std_mem/ft_memccpy.c
+./build/source_std_mem/ft_realloc.c
+./build/source_std_mem/ft_memchr.c
+./build/source_std_mem/ft_memset.c
+./build/source_std_mem/ft_memdel.c
+./build/source_std_mem/ft_memmove.c
+#   ERROR
+./build/source_error/ft_print_x.c
+./build/source_error/error_config_create.c
+./build/source_error/ft_raise_x.c
+./build/source_error/ft_assert_x.c
+./build/source_error/ft_malloc.c
+#	GNL
+# ./build/source_get_next_line/get_next_line.c
+#	VECTOR
+./build/source_vector/vector_realloc.c
+./build/source_vector/vector_insert.c
+./build/source_vector/vector_foreach.c
+./build/source_vector/vector_clear.c
+./build/source_vector/vector_destroy.c
+./build/source_vector/vector_push.c
+./build/source_vector/vector_resize.c
+./build/source_vector/vector_set.c
+./build/source_vector/vector_create.c
+./build/source_vector/vector_print.c
+./build/source_vector/vector_pop.c
+./build/source_vector/vector_find.c
+./build/source_vector/vector_erase.c
+./build/source_vector/vector_at.c
+./build/source_vector/vector_index.c
+./build/source_vector/vector_front.c
+./build/source_vector/vector_back.c
+./build/source_vector/vector_iter_set.c
+./build/source_vector/vector_iter_ptr.c
+./build/source_vector/vector_iter_next.c
+./build/source_vector/vector_iter_previous.c
+./build/source_vector/vector_copy.c
+#	LIST
+# ./build/source_list/list_push.c
+# ./build/source_list/list_item_x.c
+# ./build/source_list/list_verify.c
+# ./build/source_list/list_destroy.c
+# ./build/source_list/list_pop.c
+# ./build/source_list/list_create.c
+#	LIST2
+# ./build/source_list2/list2_node_new.c
+# ./build/source_list2/list2_node_delete.c
+# ./build/source_list2/list2_node_connect.c
+# ./build/source_list2/list2_create.c
+# ./build/source_list2/list2_destroy.c
+# ./build/source_list2/list2_push.c
+# ./build/source_list2/list2_pop.c
+# ./build/source_list2/list2_insert.c
+# ./build/source_list2/list2_remove.c
+# ./build/source_list2/list2_print.c
+# ./build/source_list2/list2_clear.c
+#	QUEUE
+# ./build/source_queue/queue_create.c
+# ./build/source_queue/queue_destroy.c
+# ./build/source_queue/queue_push.c
+# ./build/source_queue/queue_pop.c
+# ./build/source_queue/queue_front.c
+# ./build/source_queue/queue_back.c
+# ./build/source_queue/queue_print.c
+# ./build/source_queue/queue_clear.c
+#	BTREE
+# ./build/source_btree/btree_node_new.c
+# ./build/source_btree/btree_node_delete.c
+# ./build/source_btree/btree_create.c
+# ./build/source_btree/btree_destroy.c
+# ./build/source_btree/btree_insert.c
+# ./build/source_btree/btree_remove.c
+# ./build/source_btree/btree_find.c
+# ./build/source_btree/btree_find_custom.c
+# ./build/source_btree/btree_prefix.c
+# ./build/source_btree/btree_infix.c
+# ./build/source_btree/btree_suffix.c
+#	DL
+# ./build/source_dl/dl_allocate.c
+# ./build/source_dl/dl_remove.c
+# ./build/source_dl/dl_connect_ver.c
+# ./build/source_dl/dl_destroy.c
+# ./build/source_dl/dl_print.c
+# ./build/source_dl/dl_connect_hor.c
+# ./build/source_dl/dl_at.c
+# ./build/source_dl/dl_create.c
+#	FT PRINTF
+./build/source_ft_printf/ft_printf.c
+./build/source_ft_printf/ftp_buffer/ftp_buffer_functions.c
+./build/source_ft_printf/ftp_buffer/ftp_buffer_main.c
+./build/source_ft_printf/ftp_control/ftp_control_functions.c
+./build/source_ft_printf/ftp_control/ftp_control_functions_style.c
+./build/source_ft_printf/ftp_control/ftp_control_definition.c
+./build/source_ft_printf/ftp_format_in/ftp_format_additional.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in_size.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in_type.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in_width.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in_flags.c
+./build/source_ft_printf/ftp_format_in/ftp_format_in_precision.c
+./build/source_ft_printf/utils/utils.c
+./build/source_ft_printf/ftp_format_data/ftp_format_data.c
+./build/source_ft_printf/ftp_format_data/ftp_format_data_long.c
+./build/source_ft_printf/ftp_format_data/ftp_format_data_short.c
+./build/source_ft_printf/ftp_format_data/ftp_format_data_default.c
+./build/source_ft_printf/ftp_format_out_whole/ftp_format_out_whole.c
+./build/source_ft_printf/ftp_format_out_whole/ftp_format_out_whole_init.c
+./build/source_ft_printf/ftp_format_out_whole/ftp_format_out_whole_process.c
+./build/source_ft_printf/ftp_format_out_whole/ftp_format_out_whole_out.c
+./build/source_ft_printf/long/long_functions.c
+./build/source_ft_printf/long/long_basic.c
+./build/source_ft_printf/ftp_format_out_real/ftp_format_out_real.c
+./build/source_ft_printf/ftp_format_out_real/format_out_real_exceptions.c
+./build/source_ft_printf/ftp_format_out_real/ftp_format_out_real_out.c
+./build/source_ft_printf/ftp_format_out_real/ftp_format_out_real_convert.c
+./build/source_ft_printf/ftp_format_out_real/ftp_format_out_real_round.c
+./build/source_ft_printf/ftp_format_out_real/ftp_format_out_real_init.c
+./build/source_ft_printf/ftp_format_out/ftp_format_out.c
+./build/source_ft_printf/ftp_format_out/ftp_format_out_char.c
+./build/source_ft_printf/ftp_format_out/ftp_format_out_str.c
+./build/source_ft_printf/ftp_format_out/ftp_format_out_ptr.c
+
