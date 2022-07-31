@@ -1,5 +1,5 @@
-# nm
-This is a reimplementation of standard Linux utility 'nm'. This utility lists symbols from a given ELF file.
+# ft_nm
+This is a rmplementation of standard Linux utility 'nm'. This utility lists symbols from a given ELF file.
 The goal of the project is to become familiar with ELF format.
 
 ## launching VM
